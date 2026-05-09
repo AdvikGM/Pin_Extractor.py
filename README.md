@@ -14,7 +14,7 @@ If a line does not contain enough words, the program adds 0 instead.
 
 Example
 Poem
-Stars and the moonshine in the skywhite anduntil the end of the night
+Stars and the moonshine in the skywhite and until the end of the night
 Extracted PIN
 4320
 
